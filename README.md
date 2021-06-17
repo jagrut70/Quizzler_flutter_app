@@ -15,4 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="Screen(1)_splash_screen.gif"height="306" width="584">
+<img src="Screen(1)_splash_screen.gif" height="584" width="306">
+<img src="Screen(2)_welcome_screen.jpg" height="584" width="306">
+<img src="Screen(3)_quiz_screen.gif" height="584" width="306">
